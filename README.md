@@ -6,6 +6,9 @@
 
 At its core, WealthFlow is a powerful budgeting framework that helps users **create, manage, and interact with their money in real-time**, through a system of categorized allocations, smart spending controls, and rule-based blockchain enforcement. Designed for **everyday users**, not just blockchain geeks, WealthFlow makes Web3 finance intuitive, practical, and accessible to all.
 
+## 🔐 Deployed link
+https://wealthflow-dep.vercel.app
+
 ---
 
 ## 🌟 App Highlights
