@@ -1,0 +1,17 @@
+const budget = await BudgetManager.getBudget();
+budget = await BudgetManager.getBudget();
+tx = await BudgetManager.setInitialBudget(1000);
+BudgetManager = await ethers.getContractAt("BudgetManager", "0x9025798d5Fa4B679aA9bf059DdD806BBd7D5e97b");
+const BudgetManager = await ethers.getContractAt("BudgetManager", "0x9025798d5Fa4B679aA9bf059DdD806BBd7D5e97b");
+curl -k -X POST -H "Content-Type: application/json" --data '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":1}' https://swell-testnet.alt.technology/
+curl -X POST -H "Content-Type: application/json" --data '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":1}' https://swell-testnet.alt.technology/
+tx = await BudgetManager.setInitialBudget(1000);
+ tx = await BudgetManager.setInitialBudget(1000);
+const tx = await BudgetManager.setInitialBudget(1000);
+const tx = await BudgetManager.setInitialBudget(1000); // Replace 1000 with a test value
+console.log("Transaction sent:", tx.hash);
+const tx = await BudgetManager.setInitialBudget(1000); // Replace 1000 with a test value
+console.log("Contract attached:", BudgetManager.address);
+console.log(tx);const BudgetManager = await ethers.getContractAt("BudgetManager", "0x9025798d5Fa4B679aA9bf059DdD806BBd7D5e97b");
+const tx = await BudgetManager.setInitialBudget(1000); // Replace 1000 with a test value
+const BudgetManager = await ethers.getContractAt("BudgetManager", "0x9025798d5Fa4B679aA9bf059DdD806BBd7D5e97b");

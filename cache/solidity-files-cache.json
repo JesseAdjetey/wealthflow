@@ -1,0 +1,107 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/emmanuelagyei/Desktop/wealthflow/wealthflow/contracts/BudgetAllocation.sol": {
+      "lastModificationDate": 1745449859029,
+      "contentHash": "0be1bceb6610cd83de8d279d395c7575",
+      "sourceName": "contracts/BudgetAllocation.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.18"
+      ],
+      "artifacts": [
+        "BudgetManager"
+      ]
+    },
+    "/Users/emmanuelagyei/Desktop/wealthflow/wealthflow/contracts/EmergencyFund.sol": {
+      "lastModificationDate": 1745362335042,
+      "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
+      "sourceName": "contracts/EmergencyFund.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": []
+    },
+    "/Users/emmanuelagyei/Desktop/wealthflow/wealthflow/contracts/WealthTransfer.sol": {
+      "lastModificationDate": 1745362537943,
+      "contentHash": "0165966ee1dc828e040822134d782ab8",
+      "sourceName": "contracts/WealthTransfer.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.18"
+      ],
+      "artifacts": [
+        "IBudgetAllocation",
+        "WealthTransfer"
+      ]
+    }
+  }
+}

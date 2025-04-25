@@ -1,0 +1,62 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IBudgetAllocation",
+  "sourceName": "contracts/WealthTransfer.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "user",
+          "type": "address"
+        }
+      ],
+      "name": "userBudgets",
+      "outputs": [
+        {
+          "components": [
+            {
+              "internalType": "uint256",
+              "name": "income",
+              "type": "uint256"
+            },
+            {
+              "internalType": "uint256",
+              "name": "needs",
+              "type": "uint256"
+            },
+            {
+              "internalType": "uint256",
+              "name": "wants",
+              "type": "uint256"
+            },
+            {
+              "internalType": "uint256",
+              "name": "savings",
+              "type": "uint256"
+            },
+            {
+              "internalType": "uint256",
+              "name": "emergencyFund",
+              "type": "uint256"
+            },
+            {
+              "internalType": "bool",
+              "name": "strictMode",
+              "type": "bool"
+            }
+          ],
+          "internalType": "struct IBudgetAllocation.Budget",
+          "name": "",
+          "type": "tuple"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
